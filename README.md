@@ -1,5 +1,5 @@
-# yipee-headstart
-Yipee - Headstart
+yipee-headstart
+# Yipee - Headstart
 
 Based on Yipee.io" at https://github.com/yipeeio/yipee
 
