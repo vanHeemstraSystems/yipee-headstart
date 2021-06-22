@@ -7,6 +7,8 @@ See video "Getting Started with Yipee.io' at https://www.youtube.com/watch?v=wUl
 
 See video "Yipee.io – Intelligent Modeling for Microservice Apps" at https://www.youtube.com/watch?v=BNTFhXAUJNE
 
+See video "Yipee.io – Teams and Sharing" at https://www.youtube.com/watch?v=OI0ppP6Sg9k
+
 ## 100 - Introduction
 
 An opensource version of the Yipee.io editor.
