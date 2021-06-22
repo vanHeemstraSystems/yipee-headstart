@@ -5,6 +5,8 @@ Based on Yipee.io" at https://github.com/yipeeio/yipee
 
 See video "Getting Started with Yipee.io' at https://www.youtube.com/watch?v=wUl-_fWyD7M 
 
+See video "Yipee.io – Intelligent Modeling for Microservice Apps" at https://www.youtube.com/watch?v=BNTFhXAUJNE
+
 ## 100 - Introduction
 
 An opensource version of the Yipee.io editor.
